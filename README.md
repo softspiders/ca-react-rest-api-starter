@@ -10,6 +10,12 @@ It is the client part of the [Fullstack counter-app starter on React in TypeScri
 
 ---
 
+## Presentation
+
+[Starter for Clean Architecture](https://ca-react-rest-api-starter.vercel.app/)
+
+---
+
 ## Feature tags
 - clean-architecture
 - client
@@ -17,6 +23,7 @@ It is the client part of the [Fullstack counter-app starter on React in TypeScri
 - dip
 - jest
 - jest-fetch-mock
+- mdx-deck
 - react
 - react-hooks
 - react-testing-library
